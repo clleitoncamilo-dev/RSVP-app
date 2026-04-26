@@ -7,9 +7,9 @@ Aplicação web para gestão de convidados com confirmação de presença em tem
 ## 🚀 Funcionalidades
 
 - Adicionar convidados
-- Confirmar presença (SimNão)
-- Contador automático de confirmados
-- Interface simples e intuitiva
+- Confirmar presença
+- Contador automático
+- Interface simples e funcional
 
 ---
 
@@ -21,20 +21,32 @@ Aplicação web para gestão de convidados com confirmação de presença em tem
 
 ---
 
-## 💡 Objetivo do Projeto
+## 💡 Objetivo
 
-Este projeto foi desenvolvido para praticar manipulação do DOM, gestão de estado e criação de interfaces interativas utilizando JavaScript puro.
+Praticar manipulação do DOM, lógica de estado e criação de aplicações interativas.
 
 ---
 
 ## 📸 Preview
 
-(adiciona aqui uma imagem do projeto depois)
+(adiciona screenshot aqui)
 
 ---
 
-## ▶️ Como usar
+## 🌐 Demo
 
-1. Clonar o repositório
-```bash
-git clone httpsgithub.comseu-usuariorsvp-app.git
+(link do Vercel)
+
+---
+
+## 📌 Melhorias futuras
+
+- Guardar dados no localStorage
+- Remover convidados
+- Backend com base de dados
+
+---
+
+## 👨‍💻 Autor
+
+Cleiton Santos
